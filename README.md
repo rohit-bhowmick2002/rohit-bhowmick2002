@@ -2,7 +2,7 @@
 
 ### Microsoft Certified Data Analyst (PL-300) | SQL · Python · Power BI · Business Intelligence
 📍 Howrah, West Bengal, India | ✉️ [rohitbhowmick817@gmail.com](mailto:rohitbhowmick817@gmail.com) | 📞 [+91 9674373486](tel:+919674373486)
-🌐 [Portfolio](https://rohitbhowmickportfolio.vercel.app) | 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-bhowmick) | 🐙 [GitHub](https://github.com/rohit-bhowmick2002)
+🌐 [Portfolio](https://rohit-bhowmick-portfolio.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-bhowmick) | 🐙 [GitHub](https://github.com/rohit-bhowmick2002)
 
 ---
 
