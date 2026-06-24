@@ -33,17 +33,17 @@ I am a highly analytical **Microsoft Certified Data Analyst Associate (PL-300)**
 * **Tech Stack**: SQL, Python (Pandas), Power BI, Microsoft Excel
 * **Impact**: Performed detailed exploratory data audits across **100K+ transactional records** to map shipment delays, cargo disruptions, and inventory bottlenecks. Deployed interactive Power BI metrics with custom **DAX measures** and consolidated direct Excel pipelines, increasing department operational performance tracking by **30%** and enabling same-day decision loops.
 * **Source Files**: `fact_supplier_scorecard.csv`, `fact_inventory_buffer.csv`, `dim_products.csv`, `dim_suppliers.csv`
-* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002)
+* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002/SUPPLY-CHAIN-RISK-ANALYTICS.git)
 
 ### 💳 2. AML & Financial Fraud Detection Analytics
 * **Tech Stack**: SQL, Python (Scikit-learn), Power BI, Machine Learning
 * **Impact**: Engineered an end-to-end transaction threat-monitoring pipeline on a dataset of **6M+ financial transactions**, reducing audit latency by **35%**. Designed unsupervised `IsolationForest` models with tuned contamination parameters to isolate suspicious transfers. Deployed real-time trigger alarms within Power BI dashboard scorecards, enabling compliance teams to act on alerts in hours.
-* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002)
+* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002/Synthetic-Financial-Dataset-for-Fraud-Detection.git)
 
 ### 🛍️ 3. E-Commerce Customer Lifecycle & Sales Engine
 * **Tech Stack**: SQL, Python (Pandas, Matplotlib), Power BI, Microsoft Excel
 * **Impact**: Aggregated customer transactional habits across **100K+ order arrays** using SQL and Pandas. Conducted monthly Cohort Analysis and calculated Recency, Frequency, and Monetary (RFM) segment brackets. Translated these groupings into automated email campaigns, boosting retention metrics and driving a **20% surge in repeat purchase rates**.
-* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002)
+* **Links**: 📁 [GitHub Repository](https://github.com/rohit-bhowmick2002/E-commerce_olist_dataset.git)
 
 ---
 
@@ -51,28 +51,28 @@ I am a highly analytical **Microsoft Certified Data Analyst Associate (PL-300)**
 
 * **Data Analyst Simulation (Quantium via Forage)** | *June 2026*
   * Audited massive retail transaction datasets with SQL & Python to isolate sales trends. Designed commercial customer segment metrics to optimize client pricing strategies.
-  * 📜 [Verify Simulation Certificate](https://www.theforage.com/simulations/quantium)
+  * 📜 [Verify Simulation Certificate](https://drive.google.com/file/d/1ZTEJqoVCDlgWN7_IOmUOPdZfDojAjUXQ/view?usp=drive_link)
 * **Data Visualization Analyst Simulation (Tata via Forage)** | *May 2026*
   * Created executive dashboards using Power BI, applying data storytelling and optimized DAX structures that slashed departmental reporting effort by **40%**.
-  * 📜 [Verify Simulation Certificate](https://www.theforage.com/simulations/tata)
+  * 📜 [Verify Simulation Certificate](https://drive.google.com/file/d/1zBR6nIobxbXI79CBlJa70PWzb17hQLdC/view?usp=drive_link)
 * **Data Analyst Simulation (Deloitte via Forage)** | *March 2026*
   * Audited and validated 500+ client operational datasets with SQL and Excel, resolving data quality root causes and structuring recommendation reports to support stakeholder decisions.
-  * 📜 [Verify Simulation Certificate](https://www.theforage.com/simulations/deloitte)
+  * 📜 [Verify Simulation Certificate](https://drive.google.com/file/d/1UwXLAadgGqDYrtEUDFIPPymSf4UqMEKN/view?usp=drive_link)
 
 ---
 
 ## 📜 Professional Certifications & Credentials
 
 * 🏆 **Microsoft Certified: Data Analyst Associate (PL-300)** | *Verify via Credly*
-  * 🔗 [Credential Verification Link](https://learn.microsoft.com/en-us/users/rohitbhowmick/credentials/pl-300)
+  * 🔗 [Credential Verification Link](https://drive.google.com/file/d/1tK6Emror9MGKD17uarXgDPdBMbRnxaH8/view?usp=drive_link)
 * 🧠 **Google AI Essentials** | *Verify via Coursera*
-  * 🔗 [Credential Verification Link](https://www.coursera.org/account/accomplishments/verify/google-ai-essentials)
+  * 🔗 [Credential Verification Link](https://coursera.org/share/e15136efd51e7c86f965eef5fb40204b)
 * ✍️ **Google Prompting Essentials** | *Verify via Coursera*
-  * 🔗 [Credential Verification Link](https://www.coursera.org/account/accomplishments/verify/google-prompting-essentials)
+  * 🔗 [Credential Verification Link](https://coursera.org/share/a4235cdb200c804a21bf986e3e5aa201)
 * ☁️ **Microsoft Azure AI Essentials: Workloads & ML on Azure** | *Verify via LinkedIn Learning*
-  * 🔗 [Credential Verification Link](https://www.linkedin.com/learning/microsoft-azure-ai-essentials)
+  * 🔗 [Credential Verification Link](https://www.linkedin.com/learning/certificates/e9c39e760b98b18e310ebcfc1f5351997eaa3900a78a091ac2c34f9a7580e146)
 * 📊 **Data Analytics with Generative AI** | *Verify via Simplilearn*
-  * 🔗 [Credential Verification Link](https://www.simplilearn.com/verify-credentials)
+  * 🔗 [Credential Verification Link](https://simpli-web.app.link/e/B81DuAsKa4b)
 
 ---
 
@@ -93,7 +93,7 @@ I am actively seeking **Data Analyst**, **Business Intelligence (BI) Analyst**, 
 * 📞 Phone: [+91 9674373486](tel:+919674373486)
 * 💼 LinkedIn: [linkedin.com/in/rohit-bhowmick](https://www.linkedin.com/in/rohit-bhowmick)
 * 🐙 GitHub: [github.com/rohit-bhowmick2002](https://github.com/rohit-bhowmick2002)
-* 🌐 Live Portfolio: [rohitbhowmickportfolio.vercel.app](https://rohitbhowmickportfolio.vercel.app)
+* 🌐 Live Portfolio: [rohitbhowmickportfolio.vercel.app](https://rohit-bhowmick-portfolio.vercel.app/)
 
 ---
 *“Data is the new science. Big data are the answers.” — Patrick Gelsinger* 🚀
