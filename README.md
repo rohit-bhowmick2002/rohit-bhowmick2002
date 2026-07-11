@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner_profile.png" width="100%" alt="Rohit Bhowmick - Data Scientist">
+</p>
+
 <h1 align="center">Hi, I'm Rohit Bhowmick 👋</h1>
 <h3 align="center">Data Scientist | ML Engineer | Analytics & Financial Crime Intelligence</h3>
 
@@ -38,7 +42,25 @@ Below are four projects that showcase this approach across different domains.
 ### 🕵️ 1. [Fraud Detection & AML Analytics Platform](https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform)
 **A simulated retail bank, built to be investigated.**
 
+<p align="center">
+  <img src="images/banner_fraud.png" width="100%" alt="Fraud Detection and AML Analytics Platform Banner">
+</p>
+
 A synthetic financial-crime platform generating **1,000,000 deterministic transactions** across 50,000 customers, then hunting fraud and money laundering inside that data.
+
+<p align="center">
+  <img src="images/fraud_01_executive_dashboard.png" width="100%" alt="SentinelFlow Executive Dashboard">
+</p>
+
+<p align="center">
+  <img src="images/fraud_02_roc_pr_curve.png" width="49%" alt="Fraud Model ROC and PR Curve">
+  <img src="images/fraud_04_mule_network.png" width="49%" alt="AML Mule Network Graph">
+</p>
+
+<details>
+<summary>📊 View fraud typology breakdown</summary>
+<p align="center"><img src="images/fraud_03_typology_breakdown.png" width="85%" alt="Fraud Typology Breakdown"></p>
+</details>
 
 - 🎯 **14 fraud typologies** (account takeover, synthetic ID, bust-out, bin attacks…) and **9 AML typologies** (structuring, layering, smurfing, mule accounts…)
 - 🧮 **62 production SQL analyses** across fraud, AML, KPI, risk, network, and regulatory categories
@@ -54,7 +76,21 @@ A synthetic financial-crime platform generating **1,000,000 deterministic transa
 ### 🛒 2. [Retail Sales Forecasting](https://github.com/rohit-bhowmick2002/retail-sales-forecasting)
 **Forecasting demand for a national retail chain on real Kaggle data.**
 
+<p align="center">
+  <img src="images/banner_retail.png" width="100%" alt="Retail Sales Forecasting Banner">
+</p>
+
 Built on the Corporación Favorita dataset (**3M+ transactions**, 54 stores), this project forecasts retail sales and quantifies the ROI of promotions.
+
+<p align="center">
+  <img src="images/retail_01_forecast.png" width="100%" alt="Retail Sales Actual vs Forecast">
+</p>
+
+<p align="center">
+  <img src="images/retail_02_model_comparison.png" width="32%" alt="Model Comparison MAE">
+  <img src="images/retail_03_feature_importance.png" width="32%" alt="Feature Importance">
+  <img src="images/retail_04_promotion_lift.png" width="32%" alt="Promotion Lift">
+</p>
 
 - 📈 XGBoost forecasting model — **MAE of $1,850**, a **42% improvement over Prophet**
 - 🎯 R² of **0.78** on holdout data
@@ -69,7 +105,20 @@ Built on the Corporación Favorita dataset (**3M+ transactions**, 54 stores), th
 ### 📦 3. [Olist E-Commerce Analytics & ML Platform](https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform)
 **Turning 1.55M rows of real Brazilian marketplace data into a decision-making platform.**
 
+<p align="center">
+  <img src="images/banner_olist.png" width="100%" alt="Olist E-Commerce Analytics Platform Banner">
+</p>
+
 An end-to-end analytics platform on the Olist Brazilian e-commerce dataset (99K orders, 96K customers, R$15.8M GMV), combining SQL, ML, and dashboards to answer concrete revenue, churn, and satisfaction questions.
+
+<p align="center">
+  <img src="images/olist_01_kpi_dashboard.png" width="100%" alt="Olist Executive KPI Dashboard">
+</p>
+
+<p align="center">
+  <img src="images/olist_02_churn_roc.png" width="49%" alt="Olist Churn ROC Curve">
+  <img src="images/olist_03_cohort_retention.png" width="49%" alt="Olist Cohort Retention Heatmap">
+</p>
 
 - 🧮 **55 hand-written SQL queries** across 8 business sections — all validated by an automated smoke test (55/55 passing)
 - 🤖 **3 ML models:** XGBoost churn classifier (**0.8945 ROC-AUC**), gradient-boosting review-score regressor (0.90★ MAE), and KMeans RFM segmentation (top 3% of customers → 24% of GMV)
@@ -83,7 +132,20 @@ An end-to-end analytics platform on the Olist Brazilian e-commerce dataset (99K 
 ### 🎵 4. [KKBox Churn Prediction](https://github.com/rohit-bhowmick2002/kkbox-churn-prediction)
 **Predicting subscriber churn for a music streaming service (WSDM Cup 2018).**
 
+<p align="center">
+  <img src="images/banner_kkbox.png" width="100%" alt="KKBox Churn Prediction Banner">
+</p>
+
 A churn-prediction pipeline built on KKBox's dataset of **30M+ records**, engineering 87 features from member, transaction, and listening-behavior data.
+
+<p align="center">
+  <img src="images/kkbox_01_executive_dashboard.png" width="100%" alt="KKBox Executive Dashboard">
+</p>
+
+<p align="center">
+  <img src="images/kkbox_03_roc_all_models.png" width="49%" alt="KKBox ROC Curve All Models">
+  <img src="images/kkbox_02_feature_importance.png" width="49%" alt="KKBox Feature Importance">
+</p>
 
 - 🏆 Best model (LightGBM) achieved **0.8923 ROC-AUC**, beating the 0.85 target
 - 🔑 Auto-renewal status emerged as the single strongest churn signal — churn risk is **5.8x higher** when disabled
