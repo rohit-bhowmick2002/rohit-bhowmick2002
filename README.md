@@ -38,7 +38,7 @@
 
 </div>
 
-I specialize in building **production-grade analytics platforms** that bridge the gap between raw big data and executive decision-making. My focus is on the full lifecycle: **High-Volume ETL $\rightarrow$ Predictive Modeling $\rightarrow$ Executive BI Storytelling.**
+I am a **Microsoft Certified Data Analyst Associate (PL-300)** with a track record of building end-to-end analytics solutions across **BFSI, E-commerce, and Supply Chain** domains. I specialize in converting raw datasets into executive-ready insights, KPI systems, and ML-driven risk models that drive measurable business outcomes.
 
 ---
 
@@ -55,6 +55,12 @@ I specialize in building **production-grade analytics platforms** that bridge th
 `Visualization` $\rightarrow$ ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit) ![DAX](https://img.shields.io/badge/DAX-1E3A8A?style=flat-square&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
 
 </div>
+
+### 🧠 Core Engineering Competencies
+
+- **Advanced Analytics:** RFM & Cohort Analysis, Hypothesis Testing, Statistical Modeling, Customer Segmentation.
+- **Data Architecture:** Star Schema Design, ETL Pipelines, Data Modeling, Data Cleaning & Validation.
+- **Machine Learning:** Cost-Sensitive Learning, Anomaly Detection, Feature Engineering, Predictive Analytics.
 
 ### 📐 System Architecture Workflow
 
@@ -151,15 +157,30 @@ graph TD
 
 ### Data Analyst (Virtual) — Quantium, TCS, Deloitte
 **2026**
-- **Quantium:** Executed retail transaction EDA to identify product-performance gaps for pricing strategies.
-- **TCS:** Architected executive Power BI dashboards, reducing manual reporting effort by **60%**.
-- **Deloitte:** Root-cause analysis of data quality issues, reducing review time by **30%**.
+- **Quantium:** Identified product-performance gaps across 4+ sales categories using SQL/Python EDA, informing 3 pricing strategy adjustments.
+- **TCS:** Designed 2 executive-level Power BI dashboards with 30+ DAX measures; reduced manual reporting effort by **60%**.
+- **Deloitte:** Validated 500+ records to identify root-cause data quality issues, reducing stakeholder review time by **30%**.
 
 ### B.Tech in Computer Science Engineering
 **Seacom Engineering College, West Bengal** | **CGPA: 7.7/10** | *2021 – 2025*
-- Core Focus: DBMS, Statistical Modeling, ML, Data Structures.
+- Core Focus: DBMS, Statistical Modeling, Machine Learning, Data Structures & Algorithms.
 
 </details>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|---|---|---:|
+| **Microsoft Certified: Data Analyst Associate (PL-300)** | Microsoft | 2026 |
+| **Google AI Essentials** | Google | 2026 |
+| **Google Prompting Essentials** | Google | 2026 |
+| **Microsoft Azure AI Essentials** | LinkedIn / Microsoft | 2025 |
+
+</div>
 
 ---
 
