@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Premium Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=250&section=header&text=Rohit%20Bhowmick&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20ML%20Architect%20%7C%20PL-300%20Certified&descSize=20&descAlignY=58" width="100%" />
+<!-- WORLD CLASS HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F172A&height=280&section=header&text=Rohit%20Bhowmick&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Analytics%20Engineer%20%7C%20ML%20Architect%20%7C%20PL-300%20Certified&descSize=22&descAlignY=55" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Architecting%20Enterprise%20Analytics%20Platforms;Scaling%20ML%20Models%20to%20Millions%20of%20Records;Turning%20Complex%20Data%20into%20Measurable%20ROI)](https://git.io/typing-svg)
 
 <br />
 
-<!-- Fixed Interactive Navigation -->
+<!-- NAVIGATION BAR -->
 <table>
   <tr>
-    <td align="center"><a href="#executive-summary">🚀 Summary</a></td>
-    <td align="center"><a href="#technical-ecosystem">🛠️ Tech Stack</a></td>
-    <td align="center"><a href="#project-gallery">🏆 Portfolio</a></td>
-    <td align="center"><a href="#professional-journey">💼 Experience</a></td>
-    <td align="center"><a href="#lets-connect">🤝 Connect</a></td>
+    <td align="center" width="20%"><a href="#executive-scorecard">🎯 Scorecard</a></td>
+    <td align="center" width="20%"><a href="#technical-blueprint">🛠️ Blueprint</a></td>
+    <td align="center" width="20%"><a href="#project-gallery">🏆 Portfolio</a></td>
+    <td align="center" width="20%"><a href="#professional-journey">💼 Journey</a></td>
+    <td align="center" width="20%"><a href="#lets-connect">🤝 Connect</a></td>
   </tr>
 </table>
 
@@ -28,73 +28,114 @@
 
 ---
 
-## Executive Summary
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Data_Scale-30M+_Records-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML_Performance-0.94_AUC-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business_Value-5.1x_ROI-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Certification-PL--300_Microsoft-gold?style=flat-square" />
-</div>
-
-I specialize in building **production-grade analytics platforms** that bridge the gap between raw big data and executive decision-making. I don't just build models; I build **systems**—from high-volume ETL and complex SQL analytics to calibrated ML models and interactive BI dashboards.
-
----
-
-## Technical Ecosystem
+## 🎯 Executive Scorecard
 
 <div align="center">
 
-| Category | Toolkit |
-| :--- | :--- |
-| **Infrastructure** | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus) |
-| **ML & Intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat) ![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat) ![ScikitLearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FFD700?style=flat) |
-| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit) ![DAX](https://img.shields.io/badge/DAX-1E3A8A?style=flat&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly) |
+| 🌍 Data Scale | 📈 ML Precision | 💰 Business ROI | 🏅 Certification |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/30M+_Records-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/0.94_AUC-38BDF8?style=for-the-badge&logo=scikitlearn&logoColor=white" /> | <img src="https://img.shields.io/badge/5.1x_ROI-10B981?style=for-the-badge&logo=googleanalytics&logoColor=white" /> | <img src="https://img.shields.io/badge/PL--300_Microsoft-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" /> |
 
 </div>
 
+I specialize in building **production-grade analytics platforms** that bridge the gap between raw big data and executive decision-making. My focus is on the full lifecycle: **High-Volume ETL $\rightarrow$ Predictive Modeling $\rightarrow$ Executive BI Storytelling.**
+
 ---
 
-## Project Gallery
+## 🛠️ Technical Blueprint
 
-*End-to-end pipeline: $\text{ETL} \rightarrow \text{EDA} \rightarrow \text{ML Modeling} \rightarrow \text{BI Visualization}$.*
+### ⚙️ The Engineering Stack
+
+<div align="center">
+
+`Infrastructure` $\rightarrow$ ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
+
+`Intelligence` $\rightarrow$ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat-square) ![ScikitLearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FFD700?style=flat-square)
+
+`Visualization` $\rightarrow$ ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit) ![DAX](https://img.shields.io/badge/DAX-1E3A8A?style=flat-square&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
+
+</div>
+
+### 📐 System Architecture Workflow
+
+```mermaid
+graph TD
+    subgraph "Data Engineering Layer"
+    A[Raw Data Sources] -->|ETL/Python| B[PostgreSQL Warehouse]
+    B -->|Window Functions| C[Feature Store/SQL Views]
+    end
+
+    subgraph "ML Intelligence Layer"
+    C -->|Training| D[XGBoost/LightGBM Models]
+    D -->|Calibration| E[Inference API / FastAPI]
+    E -->|Explainability| F[SHAP Values]
+    end
+
+    subgraph "Business Value Layer"
+    E -->|Live Data| G[Streamlit/Power BI Dashboards]
+    G -->|Insights| H[Strategic ROI/Decision]
+    end
+
+    style H fill:#38BDF8,stroke:#0F172A,stroke-width:2px,color:#0F172A
+    style B fill:#f9f9f9,stroke:#333,stroke-width:2px
+```
+
+---
+
+## 🏆 Project Gallery
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ SentinelFlow: Fraud Platform</h3>
       <img src="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform/blob/main/docs/images/executive_dashboard.png?raw=true" width="100%" />
-      <p><b>Scale:</b> 1M+ Transactions<br><b>Win:</b> 0.941 AUC $\cdot$ \$2.14M Loss Prevented<br><b>Core:</b> FastAPI, Postgres, Prometheus</p>
-      <a href="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform"><b>📂 Explore Repo $\rightarrow$</b></a>
+      <p>
+        <b>Scale:</b> 1M+ Transactions $\cdot$ 14 Fraud Typologies<br>
+        <b>Key Win:</b> 0.941 AUC $\cdot$ \$2.14M Loss Prevented<br>
+        <b>Tech:</b> <code>FastAPI</code>, <code>Postgres</code>, <code>Prometheus</code>, <code>XGBoost</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform"><b>Explore Repository $\rightarrow$</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 KKBox: Churn Prediction</h3>
       <img src="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction/blob/main/images/kpi/executive_dashboard.png?raw=true" width="100%" />
-      <p><b>Scale:</b> 30M+ Records<br><b>Win:</b> 0.8923 AUC $\cdot$ 5.1x Projected ROI<br><b>Core:</b> LightGBM, SHAP, Pandas</p>
-      <a href="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction"><b>📂 Explore Repo $\rightarrow$</b></a>
+      <p>
+        <b>Scale:</b> 30M+ Records $\cdot$ 87 Engineered Features<br>
+        <b>Key Win:</b> 0.8923 AUC $\cdot$ 5.1x Projected ROI<br>
+        <b>Tech:</b> <code>LightGBM</code>, <code>SHAP</code>, <code>Pandas</code>, <code>Pytest</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction"><b>Explore Repository $\rightarrow$</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Olist: E-Comm Platform</h3>
       <img src="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform/blob/main/images/dashboard_preview.png?raw=true" width="100%" />
-      <p><b>Scale:</b> 1.5M+ Rows<br><b>Win:</b> 0.894 AUC $\cdot$ R\$ 2.3M Value<br><b>Core:</b> SQLite, XGBoost, KMeans</p>
-      <a href="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform"><b>📂 Explore Repo $\rightarrow$</b></a>
+      <p>
+        <b>Scale:</b> 1.5M+ Rows $\cdot$ 55 Production SQL Queries<br>
+        <b>Key Win:</b> 0.894 AUC $\cdot$ R\$ 2.3M Annual Value<br>
+        <b>Tech:</b> <code>SQLite</code>, <code>XGBoost</code>, <code>KMeans</code>, <code>Streamlit</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform"><b>Explore Repository $\rightarrow$</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Retail Sales Forecasting</h3>
       <img src="https://github.com/rohit-bhowmick2002/retail-sales-forecasting/blob/main/images/model_comparison_kaggle.png?raw=true" width="100%" />
-      <p><b>Scale:</b> 3M+ Transactions<br><b>Win:</b> R² 0.78 $\cdot$ 42% Lift over Prophet<br><b>Core:</b> XGBoost, Docker, Streamlit</p>
-      <a href="https://github.com/rohit-bhowmick2002/retail-sales-forecasting"><b>📂 Explore Repo $\rightarrow$</b></a>
+      <p>
+        <b>Scale:</b> 3M+ Transactions $\cdot$ 54 National Stores<br>
+        <b>Key Win:</b> R² 0.78 $\cdot$ 42% Lift over Prophet<br>
+        <b>Tech:</b> <code>XGBoost</code>, <code>Docker</code>, <code>Streamlit</code>, <code>Pandas</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/retail-sales-forecasting"><b>Explore Repository $\rightarrow$</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Engineering Impact
+## 📊 Engineering Impact Matrix
 
-| Platform | Data Scale | Core Model | Key Metric | Business Outcome |
+| Platform | Data Scale | Model | Core Metric | Business Outcome |
 | :--- | :---: | :---: | :---: | :--- |
 | **AML & Fraud** | $1\text{M}+$ | XGBoost | $0.94\text{ AUC}$ | **\$2.14M Loss Prevented** |
 | **KKBox Churn** | $30\text{M}+$ | LightGBM | $0.89\text{ AUC}$ | **5.1x Projected ROI** |
@@ -110,8 +151,8 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ### Data Analyst (Virtual) — Quantium, TCS, Deloitte
 **2026**
-- **Quantium:** Executed retail transaction EDA to identify product-performance gaps.
-- **TCS:** Architected executive Power BI dashboards, reducing reporting effort by **60%**.
+- **Quantium:** Executed retail transaction EDA to identify product-performance gaps for pricing strategies.
+- **TCS:** Architected executive Power BI dashboards, reducing manual reporting effort by **60%**.
 - **Deloitte:** Root-cause analysis of data quality issues, reducing review time by **30%**.
 
 ### B.Tech in Computer Science Engineering
