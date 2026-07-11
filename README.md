@@ -7,14 +7,14 @@
 
 <br />
 
-<!-- Interactive Quick Nav -->
+<!-- Fixed Interactive Navigation -->
 <table>
   <tr>
-    <td align="center"><a href="#-executive-summary">🚀 Summary</a></td>
-    <td align="center"><a href="#-technical-ecosystem">🛠️ Tech Stack</a></td>
-    <td align="center"><a href="#-project-gallery">🏆 Portfolio</a></td>
-    <td align="center"><a href="#-professional-journey">💼 Experience</a></td>
-    <td align="center"><a href="#-let's-connect">🤝 Connect</a></td>
+    <td align="center"><a href="#executive-summary">🚀 Summary</a></td>
+    <td align="center"><a href="#technical-ecosystem">🛠️ Tech Stack</a></td>
+    <td align="center"><a href="#project-gallery">🏆 Portfolio</a></td>
+    <td align="center"><a href="#professional-journey">💼 Experience</a></td>
+    <td align="center"><a href="#lets-connect">🤝 Connect</a></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Executive Summary
+## Executive Summary
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Scale-30M+_Records-blue?style=flat-square" />
@@ -41,7 +41,7 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Technical Ecosystem
 
 <div align="center">
 
@@ -55,39 +55,35 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ---
 
-## 🏆 Project Gallery
+## Project Gallery
 
-*Each platform follows a rigorous engineering pipeline: $\text{ETL} \rightarrow \text{EDA} \rightarrow \text{ML Modeling} \rightarrow \text{BI Visualization}$.*
+*End-to-end pipeline: $\text{ETL} \rightarrow \text{EDA} \rightarrow \text{ML Modeling} \rightarrow \text{BI Visualization}$.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ SentinelFlow: Fraud Platform</h3>
-      <!-- TIP: Replace this image with a GIF of your dashboard -->
-      <img src="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform/raw/main/docs/images/executive_dashboard.png" width="100%" style="border-radius:10px" />
+      <img src="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform/blob/main/docs/images/executive_dashboard.png?raw=true" width="100%" />
       <p><b>Scale:</b> 1M+ Transactions<br><b>Win:</b> 0.941 AUC $\cdot$ \$2.14M Loss Prevented<br><b>Core:</b> FastAPI, Postgres, Prometheus</p>
       <a href="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform"><b>📂 Explore Repo $\rightarrow$</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 KKBox: Churn Prediction</h3>
-      <!-- TIP: Replace this image with a GIF of your SHAP plots -->
-      <img src="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction/raw/main/images/kpi/executive_dashboard.png" width="100%" style="border-radius:10px" />
-      <p><b>Scale:</b> 30M+ Records<br><b>Win:</b> 0.892 AUC $\cdot$ 5.1x Projected ROI<br><b>Core:</b> LightGBM, SHAP, Pandas</p>
+      <img src="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction/blob/main/images/kpi/executive_dashboard.png?raw=true" width="100%" />
+      <p><b>Scale:</b> 30M+ Records<br><b>Win:</b> 0.8923 AUC $\cdot$ 5.1x Projected ROI<br><b>Core:</b> LightGBM, SHAP, Pandas</p>
       <a href="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction"><b>📂 Explore Repo $\rightarrow$</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Olist: E-Comm Platform</h3>
-      <!-- TIP: Replace this image with a GIF of your Streamlit app -->
-      <img src="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform/raw/main/images/dashboard_preview.png" width="100%" style="border-radius:10px" />
-      <p><b>Scale:</b> 1.5M+ Rows<br><b>Win:</b> RFM Clusters $\cdot$ R\$ 2.3M Value<br><b>Core:</b> SQLite, XGBoost, KMeans</p>
+      <img src="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform/blob/main/images/dashboard_preview.png?raw=true" width="100%" />
+      <p><b>Scale:</b> 1.5M+ Rows<br><b>Win:</b> 0.894 AUC $\cdot$ R\$ 2.3M Value<br><b>Core:</b> SQLite, XGBoost, KMeans</p>
       <a href="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform"><b>📂 Explore Repo $\rightarrow$</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Retail Sales Forecasting</h3>
-      <!-- TIP: Replace this image with a GIF of your forecast plots -->
-      <img src="https://github.com/rohit-bhowmick2002/retail-sales-forecasting/raw/main/images/model_comparison_kaggle.png" width="100%" style="border-radius:10px" />
+      <img src="https://github.com/rohit-bhowmick2002/retail-sales-forecasting/blob/main/images/model_comparison_kaggle.png?raw=true" width="100%" />
       <p><b>Scale:</b> 3M+ Transactions<br><b>Win:</b> R² 0.78 $\cdot$ 42% Lift over Prophet<br><b>Core:</b> XGBoost, Docker, Streamlit</p>
       <a href="https://github.com/rohit-bhowmick2002/retail-sales-forecasting"><b>📂 Explore Repo $\rightarrow$</b></a>
     </td>
@@ -96,18 +92,18 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ---
 
-## 📊 Engineering Impact
+## Engineering Impact
 
-| Metric | Financial Fraud | KKBox Churn | Olist E-Comm | Retail Forecast |
-| :--- | :---: | :---: | :---: | :---: |
-| **Dataset Size** | $1\text{M}+$ | $30\text{M}+$ | $1.5\text{M}+$ | $3\text{M}+$ |
-| **Core Model** | XGBoost | LightGBM | XGBoost | XGBoost |
-| **Key Metric** | $0.94\text{ AUC}$ | $0.89\text{ AUC}$ | $0.89\text{ AUC}$ | $\text{R}^2=0.78$ |
-| **Business ROI** | $\$2.14\text{M}$ | $5.1\text{x}$ | $\text{R}\$ 2.3\text{M}$ | $42\% \text{ Lift}$ |
+| Platform | Data Scale | Core Model | Key Metric | Business Outcome |
+| :--- | :---: | :---: | :---: | :--- |
+| **AML & Fraud** | $1\text{M}+$ | XGBoost | $0.94\text{ AUC}$ | **\$2.14M Loss Prevented** |
+| **KKBox Churn** | $30\text{M}+$ | LightGBM | $0.89\text{ AUC}$ | **5.1x Projected ROI** |
+| **Olist E-Comm** | $1.5\text{M}+$ | XGBoost | $0.89\text{ AUC}$ | **R\$ 2.3M Annual Value** |
+| **Retail Forecast**| $3\text{M}+$ | XGBoost | $\text{R}^2=0.78$ | **42% Performance Lift** |
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 <details>
 <summary><b>🔍 Click to expand Experience & Education</b></summary>
@@ -126,7 +122,7 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-bhowmick2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
@@ -137,7 +133,7 @@ I specialize in building **production-grade analytics platforms** that bridge th
 
 ---
 
-## 🤝 Let's Connect
+## Lets Connect
 
 <div align="center">
 
