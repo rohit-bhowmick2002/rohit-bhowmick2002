@@ -1,181 +1,219 @@
-<p align="center">
-  <img src="images/banner_profile.png" width="100%" alt="Rohit Bhowmick - Data Scientist">
+<div align="center">
+
+<!-- WORLD CLASS HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F172A&height=280&section=header&text=Rohit%20Bhowmick&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Analytics%20Engineer%20%7C%20ML%20Architect%20%7C%20PL-300%20Certified&descSize=22&descAlignY=55" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Architecting%20Enterprise%20Analytics%20Platforms;Scaling%20ML%20Models%20to%20Millions%20of%20Records;Turning%20Complex%20Data%20into%20Measurable%20ROI)](https://git.io/typing-svg)
+
+<br />
+
+<!-- NAVIGATION BAR -->
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="#executive-scorecard">🎯 Scorecard</a></td>
+    <td align="center" width="20%"><a href="#technical-blueprint">🛠️ Blueprint</a></td>
+    <td align="center" width="20%"><a href="#project-gallery">🏆 Portfolio</a></td>
+    <td align="center" width="20%"><a href="#professional-journey">💼 Journey</a></td>
+    <td align="center" width="20%"><a href="#lets-connect">🤝 Connect</a></td>
+  </tr>
+</table>
+
+<p>
+  <a href="mailto:rohitbhowmick817@gmail.com"><img src="https://img.shields.io/badge/Email-rohitbhowmick817%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-bhowmick"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Bhowmick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rohit-bhowmick2002"><img src="https://img.shields.io/badge/GitHub-rohit--bhowmick2002-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Rohit Bhowmick 👋</h1>
-<h3 align="center">Data Scientist | ML Engineer | Analytics & Financial Crime Intelligence</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-00A0DC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="mailto:rohitbhowmick817@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohit-bhowmick"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rohit-bhowmick2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Executive Scorecard
 
-I build **end-to-end data science systems** — from synthetic and real-world data pipelines, through SQL analytics and machine learning, to interactive dashboards that non-technical stakeholders can actually use. My work spans **financial crime detection (fraud & AML)**, **retail demand forecasting**, **e-commerce customer analytics**, and **subscription churn modeling**.
+<div align="center">
 
-Across my projects I consistently focus on four things:
+| 🌍 Data Scale | 📈 ML Precision | 💰 Business ROI | 🏅 Certification |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/30M+_Records-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/0.94_AUC-38BDF8?style=for-the-badge&logo=scikitlearn&logoColor=white" /> | <img src="https://img.shields.io/badge/5.1x_ROI-10B981?style=for-the-badge&logo=googleanalytics&logoColor=white" /> | <img src="https://img.shields.io/badge/PL--300_Microsoft-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" /> |
 
-- 📐 **Rigorous data foundations** — normalized schemas, partitioned warehouses, reproducible ETL
-- 🧠 **Production-style ML** — calibrated gradient-boosted models (XGBoost/LightGBM), SHAP explainability, proper train/test discipline
-- 📊 **SQL-first analytics** — hundreds of hand-written, business-intent-documented queries across my repos
-- 🖥️ **Decision-ready delivery** — Streamlit apps, executive dashboards, and API endpoints, not just notebooks
+</div>
 
-Below are four projects that showcase this approach across different domains.
+I am a **Microsoft Certified Data Analyst Associate (PL-300)** with a track record of building end-to-end analytics solutions across **BFSI, E-commerce, and Supply Chain** domains. I specialize in converting raw datasets into executive-ready insights, KPI systems, and ML-driven risk models that drive measurable business outcomes.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Blueprint
 
-### 🕵️ 1. [Fraud Detection & AML Analytics Platform](https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform)
-**A simulated retail bank, built to be investigated.**
+### ⚙️ The Engineering Stack
 
-<p align="center">
-  <img src="images/banner_fraud.png" width="100%" alt="Fraud Detection and AML Analytics Platform Banner">
-</p>
+<div align="center">
 
-A synthetic financial-crime platform generating **1,000,000 deterministic transactions** across 50,000 customers, then hunting fraud and money laundering inside that data.
+`Infrastructure` $\rightarrow$ ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
 
-<p align="center">
-  <img src="images/fraud_01_executive_dashboard.png" width="100%" alt="SentinelFlow Executive Dashboard">
-</p>
+`Intelligence` $\rightarrow$ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat-square) ![ScikitLearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FFD700?style=flat-square)
 
-<p align="center">
-  <img src="images/fraud_02_roc_pr_curve.png" width="49%" alt="Fraud Model ROC and PR Curve">
-  <img src="images/fraud_04_mule_network.png" width="49%" alt="AML Mule Network Graph">
-</p>
+`Visualization` $\rightarrow$ ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit) ![DAX](https://img.shields.io/badge/DAX-1E3A8A?style=flat-square&logo=powerbi) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
+
+</div>
+
+### 🧠 Core Engineering Competencies
+
+- **Advanced Analytics:** RFM & Cohort Analysis, Hypothesis Testing, Statistical Modeling, Customer Segmentation.
+- **Data Architecture:** Star Schema Design, ETL Pipelines, Data Modeling, Data Cleaning & Validation.
+- **Machine Learning:** Cost-Sensitive Learning, Anomaly Detection, Feature Engineering, Predictive Analytics.
+
+### 📐 System Architecture Workflow
+
+```mermaid
+graph TD
+    subgraph "Data Engineering Layer"
+    A[Raw Data Sources] -->|ETL/Python| B[PostgreSQL Warehouse]
+    B -->|Window Functions| C[Feature Store/SQL Views]
+    end
+
+    subgraph "ML Intelligence Layer"
+    C -->|Training| D[XGBoost/LightGBM Models]
+    D -->|Calibration| E[Inference API / FastAPI]
+    E -->|Explainability| F[SHAP Values]
+    end
+
+    subgraph "Business Value Layer"
+    E -->|Live Data| G[Streamlit/Power BI Dashboards]
+    G -->|Insights| H[Strategic ROI/Decision]
+    end
+
+    style H fill:#38BDF8,stroke:#0F172A,stroke-width:2px,color:#0F172A
+    style B fill:#f9f9f9,stroke:#333,stroke-width:2px
+```
+
+---
+
+## 🏆 Project Gallery
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SentinelFlow: Fraud Platform</h3>
+      <img src="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform/blob/main/docs/images/executive_dashboard.png?raw=true" width="100%" />
+      <p>
+        <b>Scale:</b> 1M+ Transactions $\cdot$ 14 Fraud Typologies<br>
+        <b>Key Win:</b> 0.941 AUC $\cdot$ \$2.14M Loss Prevented<br>
+        <b>Tech:</b> <code>FastAPI</code>, <code>Postgres</code>, <code>Prometheus</code>, <code>XGBoost</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/Fraud-Detection-AML-Analytics-Platform"><b>Explore Repository $\rightarrow$</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 KKBox: Churn Prediction</h3>
+      <img src="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction/blob/main/images/kpi/executive_dashboard.png?raw=true" width="100%" />
+      <p>
+        <b>Scale:</b> 30M+ Records $\cdot$ 87 Engineered Features<br>
+        <b>Key Win:</b> 0.8923 AUC $\cdot$ 5.1x Projected ROI<br>
+        <b>Tech:</b> <code>LightGBM</code>, <code>SHAP</code>, <code>Pandas</code>, <code>Pytest</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/kkbox-churn-prediction"><b>Explore Repository $\rightarrow$</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Olist: E-Comm Platform</h3>
+      <img src="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform/blob/main/images/dashboard_preview.png?raw=true" width="100%" />
+      <p>
+        <b>Scale:</b> 1.5M+ Rows $\cdot$ 55 Production SQL Queries<br>
+        <b>Key Win:</b> 0.894 AUC $\cdot$ R\$ 2.3M Annual Value<br>
+        <b>Tech:</b> <code>SQLite</code>, <code>XGBoost</code>, <code>KMeans</code>, <code>Streamlit</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform"><b>Explore Repository $\rightarrow$</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Retail Sales Forecasting</h3>
+      <img src="https://github.com/rohit-bhowmick2002/retail-sales-forecasting/blob/main/images/model_comparison_kaggle.png?raw=true" width="100%" />
+      <p>
+        <b>Scale:</b> 3M+ Transactions $\cdot$ 54 National Stores<br>
+        <b>Key Win:</b> R² 0.78 $\cdot$ 42% Lift over Prophet<br>
+        <b>Tech:</b> <code>XGBoost</code>, <code>Docker</code>, <code>Streamlit</code>, <code>Pandas</code>
+      </p>
+      <a href="https://github.com/rohit-bhowmick2002/retail-sales-forecasting"><b>Explore Repository $\rightarrow$</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Engineering Impact Matrix
+
+| Platform | Data Scale | Model | Core Metric | Business Outcome |
+| :--- | :---: | :---: | :---: | :--- |
+| **AML & Fraud** | $1\text{M}+$ | XGBoost | $0.94\text{ AUC}$ | **\$2.14M Loss Prevented** |
+| **KKBox Churn** | $30\text{M}+$ | LightGBM | $0.89\text{ AUC}$ | **5.1x Projected ROI** |
+| **Olist E-Comm** | $1.5\text{M}+$ | XGBoost | $0.89\text{ AUC}$ | **R\$ 2.3M Annual Value** |
+| **Retail Forecast**| $3\text{M}+$ | XGBoost | $\text{R}^2=0.78$ | **42% Performance Lift** |
+
+---
+
+## Professional Journey
 
 <details>
-<summary>📊 View fraud typology breakdown</summary>
-<p align="center"><img src="images/fraud_03_typology_breakdown.png" width="85%" alt="Fraud Typology Breakdown"></p>
+<summary><b>🔍 Click to expand Experience & Education</b></summary>
+
+### Data Analyst (Virtual) — Quantium, TCS, Deloitte
+**2026**
+- **Quantium:** Identified product-performance gaps across 4+ sales categories using SQL/Python EDA, informing 3 pricing strategy adjustments.
+- **TCS:** Designed 2 executive-level Power BI dashboards with 30+ DAX measures; reduced manual reporting effort by **60%**.
+- **Deloitte:** Validated 500+ records to identify root-cause data quality issues, reducing stakeholder review time by **30%**.
+
+### B.Tech in Computer Science Engineering
+**Seacom Engineering College, West Bengal** | **CGPA: 7.7/10** | *2021 – 2025*
+- Core Focus: DBMS, Statistical Modeling, Machine Learning, Data Structures & Algorithms.
+
 </details>
 
-- 🎯 **14 fraud typologies** (account takeover, synthetic ID, bust-out, bin attacks…) and **9 AML typologies** (structuring, layering, smurfing, mule accounts…)
-- 🧮 **62 production SQL analyses** across fraud, AML, KPI, risk, network, and regulatory categories
-- 🤖 XGBoost fraud model — **0.941 ROC-AUC**, isotonic calibration, SHAP explainability
-- 🕸️ NetworkX mule-network detection — PageRank scoring + Louvain community detection (12 mule communities found)
-- 🖥️ 5-tab Streamlit investigator console + FastAPI scoring service (`/score`, `/aml/evaluate`) + Power BI star schema
-- 🏛️ Governance built in: model cards, SAR/CTR templates, audit logging, CI with a live Postgres service
+---
 
-**Stack:** PostgreSQL 16 · Python 3.11 · XGBoost · FastAPI · Streamlit · NetworkX · Docker · GitHub Actions
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|---|---|---:|
+| **Microsoft Certified: Data Analyst Associate (PL-300)** | Microsoft | 2026 |
+| **Google AI Essentials** | Google | 2026 |
+| **Google Prompting Essentials** | Google | 2026 |
+| **Microsoft Azure AI Essentials** | LinkedIn / Microsoft | 2025 |
+
+</div>
 
 ---
 
-### 🛒 2. [Retail Sales Forecasting](https://github.com/rohit-bhowmick2002/retail-sales-forecasting)
-**Forecasting demand for a national retail chain on real Kaggle data.**
+## GitHub Analytics
 
-<p align="center">
-  <img src="images/banner_retail.png" width="100%" alt="Retail Sales Forecasting Banner">
-</p>
-
-Built on the Corporación Favorita dataset (**3M+ transactions**, 54 stores), this project forecasts retail sales and quantifies the ROI of promotions.
-
-<p align="center">
-  <img src="images/retail_01_forecast.png" width="100%" alt="Retail Sales Actual vs Forecast">
-</p>
-
-<p align="center">
-  <img src="images/retail_02_model_comparison.png" width="32%" alt="Model Comparison MAE">
-  <img src="images/retail_03_feature_importance.png" width="32%" alt="Feature Importance">
-  <img src="images/retail_04_promotion_lift.png" width="32%" alt="Promotion Lift">
-</p>
-
-- 📈 XGBoost forecasting model — **MAE of $1,850**, a **42% improvement over Prophet**
-- 🎯 R² of **0.78** on holdout data
-- 🎁 Quantified **+68% promotional lift**, giving a clear read on campaign ROI
-- 🧮 50+ ready-to-run SQL business-intelligence queries
-- 🖥️ Real-time Streamlit dashboard, fully containerized with Docker
-
-**Stack:** Python · XGBoost · Prophet · Streamlit · Plotly · Docker
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-bhowmick2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-bhowmick2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit-bhowmick2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
+</div>
 
 ---
 
-### 📦 3. [Olist E-Commerce Analytics & ML Platform](https://github.com/rohit-bhowmick2002/Olist-E-Commerce-Analytics-ML-Platform)
-**Turning 1.55M rows of real Brazilian marketplace data into a decision-making platform.**
+## Lets Connect
 
-<p align="center">
-  <img src="images/banner_olist.png" width="100%" alt="Olist E-Commerce Analytics Platform Banner">
-</p>
+<div align="center">
 
-An end-to-end analytics platform on the Olist Brazilian e-commerce dataset (99K orders, 96K customers, R$15.8M GMV), combining SQL, ML, and dashboards to answer concrete revenue, churn, and satisfaction questions.
+I am seeking opportunities as an **Analytics Engineer**, **BI Architect**, or **ML Engineer** where I can build systems that translate massive datasets into strategic growth.
 
-<p align="center">
-  <img src="images/olist_01_kpi_dashboard.png" width="100%" alt="Olist Executive KPI Dashboard">
-</p>
+<br />
 
-<p align="center">
-  <img src="images/olist_02_churn_roc.png" width="49%" alt="Olist Churn ROC Curve">
-  <img src="images/olist_03_cohort_retention.png" width="49%" alt="Olist Cohort Retention Heatmap">
-</p>
+<a href="mailto:rohitbhowmick817@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rohit-bhowmick">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rohit-bhowmick2002?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🧮 **55 hand-written SQL queries** across 8 business sections — all validated by an automated smoke test (55/55 passing)
-- 🤖 **3 ML models:** XGBoost churn classifier (**0.8945 ROC-AUC**), gradient-boosting review-score regressor (0.90★ MAE), and KMeans RFM segmentation (top 3% of customers → 24% of GMV)
-- 💰 Six impact initiatives mapped directly to SQL/ML signals, totaling an estimated **R$2.3M+** in annual value
-- 🖥️ Two dashboards ship in the repo: a 9-page Streamlit app with live model scoring, and a self-contained static HTML dashboard
+<br /><br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
 
-**Stack:** SQLite · Python · XGBoost · scikit-learn · Streamlit · Plotly
-
----
-
-### 🎵 4. [KKBox Churn Prediction](https://github.com/rohit-bhowmick2002/kkbox-churn-prediction)
-**Predicting subscriber churn for a music streaming service (WSDM Cup 2018).**
-
-<p align="center">
-  <img src="images/banner_kkbox.png" width="100%" alt="KKBox Churn Prediction Banner">
-</p>
-
-A churn-prediction pipeline built on KKBox's dataset of **30M+ records**, engineering 87 features from member, transaction, and listening-behavior data.
-
-<p align="center">
-  <img src="images/kkbox_01_executive_dashboard.png" width="100%" alt="KKBox Executive Dashboard">
-</p>
-
-<p align="center">
-  <img src="images/kkbox_03_roc_all_models.png" width="49%" alt="KKBox ROC Curve All Models">
-  <img src="images/kkbox_02_feature_importance.png" width="49%" alt="KKBox Feature Importance">
-</p>
-
-- 🏆 Best model (LightGBM) achieved **0.8923 ROC-AUC**, beating the 0.85 target
-- 🔑 Auto-renewal status emerged as the single strongest churn signal — churn risk is **5.8x higher** when disabled
-- 🧪 87 engineered features, 5 models compared (LightGBM, XGBoost, CatBoost, Random Forest, Logistic Regression), 21 passing unit tests
-- 🔍 SHAP-based explainability distinguishing risk-increasing vs. risk-decreasing behaviors
-- 💼 Business recommendations translated into a **5.1x projected ROI** across four retention initiatives
-- 🖥️ Streamlit app for live scoring, backed by a documented SQL analysis layer
-
-**Stack:** Python · LightGBM · XGBoost · CatBoost · scikit-learn · SHAP · Streamlit · pytest
-
----
-
-## 🧰 Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **ML / Modeling** | XGBoost, LightGBM, CatBoost, scikit-learn, SHAP |
-| **Data Engineering** | pandas, NumPy, PostgreSQL, SQLite, ETL pipelines |
-| **Visualization** | Streamlit, Plotly, matplotlib, seaborn, Power BI |
-| **APIs & Serving** | FastAPI |
-| **Graph / Network Analytics** | NetworkX |
-| **DevOps** | Docker, GitHub Actions (CI/CD) |
-
----
-
-## 📫 Get in Touch
-
-- 📧 **Email:** rohitbhowmick817@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/rohit-bhowmick](https://www.linkedin.com/in/rohit-bhowmick)
-- 🐙 **GitHub:** [github.com/rohit-bhowmick2002](https://github.com/rohit-bhowmick2002)
-
-<p align="center"><i>⭐ If any of these projects are useful to you, a star is always appreciated.</i></p>
+</div>
